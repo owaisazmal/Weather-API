@@ -21,7 +21,7 @@ WeatherInfo is a Python script that fetches weather information for a specified 
 - Shows sunrise and sunset times in UTC.
 
 ## Example
-$ python WeatherInfo.py
+python WeatherInfo.py
 Temperature in Los Angeles: 20.01C or 68.02F
 Temperature in Los Angeles feels like: 21.67C or 71.01F
 Humidity in Los Angeles: 75%
