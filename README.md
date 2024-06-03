@@ -21,11 +21,11 @@ WeatherInfo is a Python script that fetches weather information for a specified 
 - Shows sunrise and sunset times in UTC.
 
 ## Example
-python WeatherInfo.py
-Temperature in Los Angeles: 20.01C or 68.02F
-Temperature in Los Angeles feels like: 21.67C or 71.01F
-Humidity in Los Angeles: 75%
-Wind Speed in Los Angeles: 4.63 m/s
-General Weather in Los Angeles: clear sky
-Sun rises in Los Angeles: 2024-05-15 12:55:35 UTC time.
-Sun sets in Los Angeles: 2024-05-16 01:02:33 UTC time.
+- python WeatherInfo.py
+- Temperature in Los Angeles: 20.01C or 68.02F
+- Temperature in Los Angeles feels like: 21.67C or 71.01F
+- Humidity in Los Angeles: 75%
+- Wind Speed in Los Angeles: 4.63 m/s
+- General Weather in Los Angeles: clear sky
+- Sun rises in Los Angeles: 2024-05-15 12:55:35 UTC time.
+- Sun sets in Los Angeles: 2024-05-16 01:02:33 UTC time.
